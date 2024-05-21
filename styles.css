@@ -1,0 +1,303 @@
+.titulo{
+    background: red;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.calculadora{
+    border-radius: 20px;
+    width: 480px;
+    height: 620px;
+    position: relative;
+    left: 550px;
+    background: green;
+    margin-top: 30px;
+    font-size: 80px;
+}
+
+#resultado{
+    font-size: 60px;
+    background: silver;
+    width: 400px;
+    height: 100px;
+    border-radius: 20px;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.coluna1{
+    display: flex;
+    position: relative;
+    left: 270px;
+    top: 40px;
+}
+.coluna2{
+    display: flex;
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+.coluna3{
+    display: flex;
+    position: relative;
+    left: 200px;
+    top: 60px;
+}
+.coluna4{
+    display: flex;
+    position: relative;
+    left: 200px;
+    top: 70px;
+}
+.coluna5{
+    display: flex;
+    position: relative;
+    left: 270px;
+    top: 80px;
+}
+
+.ligar{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 200px;
+    background:red;
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 60px;
+    cursor: pointer;
+}
+.porcentagem{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 180px;
+    background: yellow;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 60px;
+    cursor: pointer;
+}
+.raiz{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 160px;
+    background: yellow;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px; 
+    font-size: 60px;
+    cursor: pointer; 
+}
+.n1{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 180px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 60px;
+    cursor: pointer;   
+}
+
+.n2{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 170px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px; 
+    font-size: 60px;
+    cursor: pointer; 
+}
+.n3{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 160px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 60px;
+    cursor: pointer;
+}
+.n4{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 150px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 60px;
+    cursor: pointer;  
+}
+.n5{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 180px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px; 
+    font-size: 60px;
+    cursor: pointer;  
+}
+
+.n6{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 170px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 60px;
+    cursor: pointer;  
+}
+.n7{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 160px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 60px;
+    cursor: pointer;
+}
+.n8{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 150px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 60px;
+    cursor: pointer;  
+}
+.n9{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 180px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;  
+    font-size: 60px;
+    cursor: pointer; 
+}
+
+.n0{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 170px;
+    background: peru;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 60px;
+    cursor: pointer;  
+}
+.ponto{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 160px;
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 60px;
+    cursor: pointer;
+}
+.igual{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 150px;
+    background: palegreen;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px; 
+    font-size: 60px;
+    cursor: pointer; 
+}
+.soma{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 250px;
+    background: blueviolet;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px; 
+    font-size: 60px;
+    cursor: pointer;  
+}
+
+.subtracao{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 240px;
+    background: blueviolet;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px; 
+    margin-bottom: 5px; 
+    font-size: 60px;
+    cursor: pointer;
+}
+.multi{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 230px;
+    background: blueviolet;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 60px;
+    cursor: pointer;
+}
+.divisao{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    right: 220px;
+    background: blueviolet;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px; 
+    font-size: 60px;
+    cursor: pointer; 
+}
+
+button:hover{
+background: darkgray;
+}
